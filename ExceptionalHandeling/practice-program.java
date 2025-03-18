@@ -1,4 +1,4 @@
-class Check12 
+class Check12
 {
 	public void m1()
 	{
