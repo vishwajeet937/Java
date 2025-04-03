@@ -1,6 +1,6 @@
 class Check 
 {
-	int i=56;
+	int i=57;
 	String s="sonu";
 	Check()
 	{
