@@ -8,7 +8,8 @@ public class ReadingHtmlData
     
 	public static void main(String[] args) throws IOException 
 	{
-		File f=new File("D:"+File.separator +"Html"+File.separator +"Program3.Html");
+		File f=new File("D:"+File.separator +"Html"+File.separator +"Program31
+.Html");
 		FileReader reader= new FileReader(f);
 		int ch;
 		while((ch=reader.read())!=(-1))
